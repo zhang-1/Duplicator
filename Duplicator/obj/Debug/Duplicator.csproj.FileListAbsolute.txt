@@ -1,0 +1,15 @@
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\bin\Debug\Duplicator.exe.config
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\Duplicator.csprojResolveAssemblyReference.cache
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\MainWindow.g.cs
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\App.g.cs
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\Duplicator_MarkupCompile.cache
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\Duplicator_MarkupCompile.lref
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\bin\Debug\Duplicator.exe
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\bin\Debug\Duplicator.pdb
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\bin\Debug\Gat.Controls.OpenDialog.dll
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\MainWindow.baml
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\Duplicator.g.resources
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\Duplicator.Properties.Resources.resources
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\Duplicator.csproj.GenerateResource.Cache
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\Duplicator.exe
+c:\users\li\documents\visual studio 2015\Projects\Duplicator\Duplicator\obj\Debug\Duplicator.pdb
